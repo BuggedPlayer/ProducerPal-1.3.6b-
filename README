@@ -32,7 +32,7 @@ Library and Browser Access (New!) (By me)
 Producer Pal can now browse and load content from Ableton's library through the ppal-read-browser
 and ppal-load-item tools. You can:
 - Browse library categories (instruments, audio effects, user library, etc.)
-- Search for presets, kits, and samples by name
+- Search for presets, and samples by name
 - Load devices, presets, audio and midi effects  directly into tracks
 This includes  instrument presets, effect presets,
 user libraries, and factory content.
